@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Criminal Justice
+    - course: PhD 
       institution: University 
-      year: 2026
-    - course: MS in Criminal Justice
+      year: 2016
+    - course: MA 
       institution: University 
-      year: 2022
-    - course: BS in Criminal Justice
+      year: 2012
+    - course: BA
       institution: University 
-      year: 2020
+      year: 2005
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
