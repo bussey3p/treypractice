@@ -29,9 +29,9 @@ bio: My research interests include making websites in R.
 
 # Interests to show in About widget
 interests:
-  - Reading
-  - Writing
-  - Crying
+  - Dogs
+  - Taylor Swift
+  - Working at 3am
 
 # Education to show in About widget
 education:
