@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Erin Kearns
+title: Alex Finkle
 date: 2022-10-24
 type: landing
 
@@ -42,7 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+ # - block: skills
     content:
       title: Skills
       text: ''
@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+ # - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -85,7 +85,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
+#  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -127,7 +127,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
+#  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -154,7 +154,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+#  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -181,7 +181,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
+#  - block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -189,7 +189,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
+ # - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -200,7 +200,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
+ # - block: collection
     content:
       title: Recent Publications
       text: |-
@@ -214,7 +214,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+ # - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -229,7 +229,7 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
+ # - block: contact
     id: contact
     content:
       title: Contact
