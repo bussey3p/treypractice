@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Erin Kearns a professor at UNO. Her research interests include developing surveys which, strangely enough, started when she was a child.
+Alex Finkle is a certified general real estate appraiser, firefighter, and barback. He enjoys being a red flag in his free time. 
 {style="text-align: justify;"}
