@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Erin Kearns
+title: Alex Finkle
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Erin
-last_name: Kearns
+first_name: Alex
+last_name: Finkle
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor
+role: Barback 1
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Nebraska Omaha
-    url: https://www.unomaha.edu.edu/
+  - name: Proof and the Homy
+    url: https://www.homyinn.com//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include making websites in R.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Dogs
-  - Taylor Swift
-  - Working at 3am
+  - Tattoos
+  - Women
+  - Running into burning buildings
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD 
-      institution: University 
-      year: 2016
-    - course: MA 
-      institution: University 
+    - course: BBA
+      institution: University of Nebraska Omaha
       year: 2012
-    - course: BA
-      institution: University 
-      year: 2005
+    #- course: MA 
+    #  institution: University 
+      #year: 2012
+    #- course: BA
+      #institution: University 
+      #year: 2005
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
